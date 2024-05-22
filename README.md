@@ -15,7 +15,7 @@ This is a project that I completed which allowed me to practice HTML, CSS, Flexb
 
 ### Screenshot
 
-![](/images/GitHub_Repo_Gallery_Screenshot.jpg)
+![](/img/GitHub_Repo_Gallery_Screenshot.jpg)
 
 ### Links
 
